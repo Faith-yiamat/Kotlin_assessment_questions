@@ -9,6 +9,7 @@ fun main() {
 
 fun brniestr(info: String) {
     info.split("")
+    println(info)
 
 
 }
